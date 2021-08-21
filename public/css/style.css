@@ -2147,4 +2147,8 @@ input {
 .red-text {
   color: #ff0d0d;
 }
+
+.none {
+  display: none;
+}
 /*# sourceMappingURL=style.css.map */
