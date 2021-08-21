@@ -1,0 +1,18 @@
+{
+    "amount": 46600,
+    "countGoods": 2,
+    "contents": [
+        {
+            "id_product": 103,
+            "product_name": "Футболка",
+            "price": 45600,
+            "quantity": 1
+        },
+        {
+            "id_product": 104,
+            "product_name": "Блузка",
+            "price": 1000,
+            "quantity": 1
+        }
+    ]
+}

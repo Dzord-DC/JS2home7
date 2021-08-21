@@ -1,0 +1,22 @@
+[
+  {
+    "id_product": 101,
+    "product_name": "Штаны",
+    "price": 1600
+  },
+  {
+    "id_product": 102,
+    "product_name": "Кофта",
+    "price": 3000
+  },
+  {
+    "id_product": 103,
+    "product_name": "Футболка",
+    "price": 45600
+  },
+  {
+    "id_product": 104,
+    "product_name": "Блузка",
+    "price": 1000
+  }
+]
